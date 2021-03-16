@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "Inheritance"
+		},
+		{
+			"path": "Abstract"
+		},
+		{
+			"path": "Interface"
+		},
+		{
+			"path": "Generic"
+		}
+	],
+	"remoteAuthority": "wsl+Ubuntu",
+	"settings": {}
+}

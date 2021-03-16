@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract.deps.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/ref/Abstract.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/bin/Debug/net5.0/Abstract.pdb
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/ref/Abstract.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.pdb
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/Debug/net5.0/Abstract.genruntimeconfig.cache

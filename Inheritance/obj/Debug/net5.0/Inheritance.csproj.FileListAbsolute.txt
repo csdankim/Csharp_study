@@ -1,0 +1,16 @@
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance.deps.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance.runtimeconfig.dev.json
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/ref/Inheritance.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/bin/Debug/net5.0/Inheritance.pdb
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.csprojAssemblyReference.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfoInputs.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.AssemblyInfo.cs
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.csproj.CoreCompileInputs.cache
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/ref/Inheritance.dll
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.pdb
+/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Inheritance/obj/Debug/net5.0/Inheritance.genruntimeconfig.cache
