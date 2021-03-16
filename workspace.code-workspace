@@ -16,6 +16,6 @@
 			"path": "Generic"
 		}
 	],
-	"remoteAuthority": "wsl+Ubuntu",
+	"remoteAuthority": "wsl-ubuntu",
 	"settings": {}
 }

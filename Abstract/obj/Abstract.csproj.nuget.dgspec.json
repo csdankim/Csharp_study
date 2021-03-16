@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/Abstract.csproj": {}
+    "/Users/dankim/Documents/Csharp_study/Abstract/Abstract.csproj": {}
   },
   "projects": {
-    "/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/Abstract.csproj": {
+    "/Users/dankim/Documents/Csharp_study/Abstract/Abstract.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/Abstract.csproj",
+        "projectUniqueName": "/Users/dankim/Documents/Csharp_study/Abstract/Abstract.csproj",
         "projectName": "Abstract",
-        "projectPath": "/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/Abstract.csproj",
-        "packagesPath": "/home/dankim/.nuget/packages/",
-        "outputPath": "/mnt/c/Users/iuxda/Documents/Antra/Csharp_study/Abstract/obj/",
+        "projectPath": "/Users/dankim/Documents/Csharp_study/Abstract/Abstract.csproj",
+        "packagesPath": "/Users/dankim/.nuget/packages/",
+        "outputPath": "/Users/dankim/Documents/Csharp_study/Abstract/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/dankim/.nuget/NuGet/NuGet.Config"
+          "/Users/dankim/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.201/RuntimeIdentifierGraph.json"
         }
       }
     }
